@@ -1,0 +1,13 @@
+{
+    "brand": "Asus",
+    "model": "ROG Zephyrus G14",
+    "cpu": "AMD Ryzen 9",
+    "gpu": "NVIDIA GeForce RTX 3060",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "display": "14-inch QHD",
+    "weight": "3.64 lbs",
+    "battery_life": "Up to 10 hours",
+    "price": "$1999"
+}
+

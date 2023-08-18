@@ -1,0 +1,79 @@
+{
+    "files": [
+        {
+            "name": "file1.json",
+            "metadata": {
+                "brand": "Dell",
+                "model": "XPS 15",
+                "cpu": "Intel Core i7",
+                "gpu": "NVIDIA GeForce RTX 3050",
+                "ram": "16GB",
+                "storage": "512GB SSD",
+                "display": "15.6-inch 4K OLED",
+                "weight": "4.0 lbs",
+                "battery_life": "Up to 8 hours",
+                "price": "$1499"
+            }
+        },
+        {
+            "name": "file2.json",
+            "metadata": {
+                "brand": "Apple",
+                "model": "MacBook Pro",
+                "cpu": "Apple M1",
+                "gpu": "Integrated",
+                "ram": "8GB",
+                "storage": "256GB SSD",
+                "display": "13.3-inch Retina",
+                "weight": "2.8 lbs",
+                "battery_life": "Up to 10 hours",
+                "price": "$1299"
+            }
+        },
+        {
+            "name": "file3.json",
+            "metadata": {
+                "brand": "HP",
+                "model": "Spectre x360",
+                "cpu": "Intel Core i5",
+                "gpu": "Intel Iris Xe",
+                "ram": "8GB",
+                "storage": "256GB SSD",
+                "display": "13.3-inch OLED",
+                "weight": "2.87 lbs",
+                "battery_life": "Up to 12 hours",
+                "price": "$1199"
+            }
+        },
+        {
+            "name": "file4.json",
+            "metadata": {
+                "brand": "Lenovo",
+                "model": "ThinkPad X1 Carbon",
+                "cpu": "Intel Core i7",
+                "gpu": "Integrated",
+                "ram": "16GB",
+                "storage": "1TB SSD",
+                "display": "14-inch Full HD",
+                "weight": "2.49 lbs",
+                "battery_life": "Up to 15 hours",
+                "price": "$1699"
+            }
+        },
+        {
+            "name": "file5.json",
+            "metadata": {
+                "brand": "Asus",
+                "model": "ROG Zephyrus G14",
+                "cpu": "AMD Ryzen 9",
+                "gpu": "NVIDIA GeForce RTX 3060",
+                "ram": "32GB",
+                "storage": "1TB SSD",
+                "display": "14-inch QHD",
+                "weight": "3.64 lbs",
+                "battery_life": "Up to 10 hours",
+                "price": "$1999"
+            }
+        }
+    ]
+}

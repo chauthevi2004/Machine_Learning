@@ -1,0 +1,13 @@
+{
+    "brand": "HP",
+    "model": "Spectre x360",
+    "cpu": "Intel Core i5",
+    "gpu": "Intel Iris Xe",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "display": "13.3-inch OLED",
+    "weight": "2.87 lbs",
+    "battery_life": "Up to 12 hours",
+    "price": "$1199"
+}
+

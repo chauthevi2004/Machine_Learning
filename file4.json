@@ -1,0 +1,12 @@
+{
+    "brand": "Lenovo",
+    "model": "ThinkPad X1 Carbon",
+    "cpu": "Intel Core i7",
+    "gpu": "Integrated",
+    "ram": "16GB",
+    "storage": "1TB SSD",
+    "display": "14-inch Full HD",
+    "weight": "2.49 lbs",
+    "battery_life": "Up to 15 hours",
+    "price": "$1699"
+}

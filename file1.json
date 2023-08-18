@@ -1,0 +1,12 @@
+{
+    "brand": "Dell",
+    "model": "XPS 15",
+    "cpu": "Intel Core i7",
+    "gpu": "NVIDIA GeForce RTX 3050",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "display": "15.6-inch 4K OLED",
+    "weight": "4.0 lbs",
+    "battery_life": "Up to 8 hours",
+    "price": "$1499"
+}
