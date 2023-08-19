@@ -1,0 +1,10 @@
+ML - Họp ngày 18/8/2023
+đọc kỹ bài báo
+nắm phương pháp
+lập trình chương trình giúp phát hiện lỗ hỗng trên hợp đồng thông minh
+BERT là gì?
+
+Vuong Minh Tien:
+Đọc báo
+Dataset : visualize ( các thuộc tính )
+Mô hình học máy: test thử với dataset đã gửi
